@@ -9,5 +9,5 @@ Using LIDAR data from the City Of Montreal's OpenData Portal, an attempt will be
  
 
 Note:
-Once completed one would realize that there are roughly 682 .LAZ files within the City Of Montreal's data portal. In total, the compressed files take up 3.5GB of space; note that these are the compressed files.  
+Once completed one would realize that there are roughly 682 .LAZ files within the City Of Montreal's data portal. In total, the compressed files take up 35GB of space; note that these are the compressed files.  
 
